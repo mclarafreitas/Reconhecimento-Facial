@@ -14,7 +14,7 @@ Alunos:
 # Etapas:
 
 ## Configuração do ESP-CAM
-O objetivo deste projeto é realizar o reconhecimento facial utilizando um ESP-CAM, Python e um servidor. O ESP-CAM é conectado a um microcontrolador ESP8266 ou ESP32 e é necessário ter a biblioteca adequada para acessar a câmera. Além disso, a configuração da conexão Wi-Fi no ESP-CAM é fundamental para que ele possa se conectar ao servidor.
+O objetivo deste projeto é realizar o reconhecimento facial utilizando um ESP-CAM, Python e um servidor. O ESP-CAM é conectado a um microcontrolador ESP32 e é necessário ter a biblioteca adequada para acessar a câmera. Além disso, a configuração da conexão Wi-Fi no ESP-CAM é fundamental para que ele possa se conectar ao servidor.
 
 ## Captura da imagem
 Para capturar a imagem, é necessário utilizar a biblioteca apropriada no microcontrolador que permita acessar a câmera do ESP-CAM. Com a biblioteca configurada, é possível capturar a imagem e salvá-la no microcontrolador para uso posterior.
