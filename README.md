@@ -1,4 +1,4 @@
-#Reconhecimento Facial
+# Reconhecimento Facial
 
 Projeto final da matéria Tópicos Avançados em Informática I do curso Bacharelado em Ciências e Tecnologia da Universidade Federal do Rio Grande do Norte (UFRN)
 
@@ -10,6 +10,7 @@ Alunos:
   - Yuri
   
 https://colab.research.google.com/drive/10GoMTYJk5gujUdmGI1nE0sJ558GaQtCW#scrollTo=I5b9emBxoPs4
+
 # Etapas
 
 ## Configuração do ESP-CAM
