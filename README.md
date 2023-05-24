@@ -9,9 +9,9 @@ Alunos:
   - Maria Clara Moura de Freitas
   - Yuri Ferreira Borges
   
-https://colab.research.google.com/drive/10GoMTYJk5gujUdmGI1nE0sJ558GaQtCW#scrollTo=I5b9emBxoPs4
+- Código: https://colab.research.google.com/drive/10GoMTYJk5gujUdmGI1nE0sJ558GaQtCW#scrollTo=I5b9emBxoPs4
 
-# Etapas
+# Etapas:
 
 ## Configuração do ESP-CAM
 O objetivo deste projeto é realizar o reconhecimento facial utilizando um ESP-CAM, Python e um servidor. O ESP-CAM é conectado a um microcontrolador ESP8266 ou ESP32 e é necessário ter a biblioteca adequada para acessar a câmera. Além disso, a configuração da conexão Wi-Fi no ESP-CAM é fundamental para que ele possa se conectar ao servidor.
