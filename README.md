@@ -3,11 +3,11 @@
 Projeto final da matéria Tópicos Avançados em Informática I do curso Bacharelado em Ciências e Tecnologia da Universidade Federal do Rio Grande do Norte (UFRN)
 
 Professor:
-  - Orivaldo
+  - Orivaldo Vieira de Santana Junior
 
 Alunos:
   - Maria Clara Moura de Freitas
-  - Yuri
+  - Yuri Ferreira Borges
   
 https://colab.research.google.com/drive/10GoMTYJk5gujUdmGI1nE0sJ558GaQtCW#scrollTo=I5b9emBxoPs4
 
