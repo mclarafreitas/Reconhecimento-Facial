@@ -10,6 +10,7 @@ Alunos:
   - Yuri Ferreira Borges
   
 - Código: https://colab.research.google.com/drive/10GoMTYJk5gujUdmGI1nE0sJ558GaQtCW#scrollTo=I5b9emBxoPs4
+- Referencia: https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
 
 # Etapas:
 
