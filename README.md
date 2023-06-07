@@ -10,7 +10,9 @@ Alunos:
   - Yuri Ferreira Borges
   
 - Código: https://colab.research.google.com/drive/10GoMTYJk5gujUdmGI1nE0sJ558GaQtCW#scrollTo=I5b9emBxoPs4
-- Referencia: https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
+- Referencia: 
+https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
+https://patotricks15.medium.com/detec%C3%A7%C3%A3o-de-faces-com-python-opencv-modelo-haar-cascade-485bc1bcb368
 
 # Etapas:
 
