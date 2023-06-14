@@ -13,6 +13,7 @@ Alunos:
 - Referencia: 
 https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
 https://patotricks15.medium.com/detec%C3%A7%C3%A3o-de-faces-com-python-opencv-modelo-haar-cascade-485bc1bcb368
+- Dataset faces: http://vis-www.cs.umass.edu/lfw/#download
 
 # Etapas:
 
