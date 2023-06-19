@@ -12,10 +12,12 @@ Alunos:
 - Código: https://colab.research.google.com/drive/1Zxn99J_s-ciUkrdRKu-BQuxIX7UKVXsE
 - Referencia: 
 https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
-https://patotricks15.medium.com/detec%C3%A7%C3%A3o-de-faces-com-python-opencv-modelo-haar-cascade-485bc1bcb368
-- Dataset faces: http://vis-www.cs.umass.edu/lfw/#download
 
-- https://medium.com/data-science-br/reconhecimento-facial-em-python-com-a-biblioteca-opencv-be500c3ebcb3
+https://patotricks15.medium.com/detec%C3%A7%C3%A3o-de-faces-com-python-opencv-modelo-haar-cascade-485bc1bcb368
+
+https://medium.com/data-science-br/reconhecimento-facial-em-python-com-a-biblioteca-opencv-be500c3ebcb3
+
+- Dataset faces: http://vis-www.cs.umass.edu/lfw/#download 
 
 # Etapas:
 
