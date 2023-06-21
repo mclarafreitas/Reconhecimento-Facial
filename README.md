@@ -9,7 +9,7 @@ Alunos:
   - Maria Clara Moura de Freitas
   - Yuri Ferreira Borges
   
-- Código: https://colab.research.google.com/drive/1Zxn99J_s-ciUkrdRKu-BQuxIX7UKVXsE](https://colab.research.google.com/drive/11wr7uX3W6QZHeE7WKkG1e5ztDWJY3S5e
+- Código: https://colab.research.google.com/drive/1Zxn99J_s-ciUkrdRKu-BQuxIX7UKVXsE
 - Referencias:
  
 https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
