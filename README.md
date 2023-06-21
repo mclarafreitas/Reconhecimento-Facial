@@ -11,7 +11,7 @@ Alunos:
   
 - Código: https://colab.research.google.com/drive/1Zxn99J_s-ciUkrdRKu-BQuxIX7UKVXsE
 - Referencias:
-- 
+ 
 https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
 
 https://patotricks15.medium.com/detec%C3%A7%C3%A3o-de-faces-com-python-opencv-modelo-haar-cascade-485bc1bcb368
