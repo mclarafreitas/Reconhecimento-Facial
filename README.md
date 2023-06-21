@@ -18,6 +18,8 @@ https://patotricks15.medium.com/detec%C3%A7%C3%A3o-de-faces-com-python-opencv-mo
 
 https://medium.com/data-science-br/reconhecimento-facial-em-python-com-a-biblioteca-opencv-be500c3ebcb3
 
+https://github.com/WellingtonDev25/controle_acesso_facial
+
 - Dataset faces: http://vis-www.cs.umass.edu/lfw/#download 
 
 # Etapas:
