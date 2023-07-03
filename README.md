@@ -22,4 +22,6 @@ https://medium.com/brasil-ai/mapeamento-facial-landmarks-com-dlib-python-3a200bb
 
 https://github.com/WellingtonDev25/controle_acesso_facial
 
+https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html#sphx-glr-auto-examples-applications-plot-face-recognition-py
+
 - Dataset faces: http://vis-www.cs.umass.edu/lfw/#download 
