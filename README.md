@@ -24,4 +24,4 @@ https://github.com/WellingtonDev25/controle_acesso_facial
 
 https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html#sphx-glr-auto-examples-applications-plot-face-recognition-py
 
-- Dataset faces: http://vis-www.cs.umass.edu/lfw/#download 
+- Dataset faces: https://drive.google.com/drive/folders/1wyA6obecv82by77FkFnT5hcObVS2bBDw?usp=sharing
